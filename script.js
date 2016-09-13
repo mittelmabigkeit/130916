@@ -14,3 +14,10 @@ else
 {
 	console.log('false');
 }
+
+var s;
+s="текст47";
+s=Number(s);
+console.log(s);
+s=Boolean(s);
+console.log(s);
