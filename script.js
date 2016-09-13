@@ -27,3 +27,8 @@ console.log(typeof obj);
 
 var arr=[1,2,3];
 console.log(typeof arr);
+
+var object = new Date();
+console.log(object instanceof Date);
+var objectone = {};
+console.log(objectone instanceof Date);
