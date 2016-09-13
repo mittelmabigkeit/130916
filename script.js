@@ -21,3 +21,9 @@ s=Number(s);
 console.log(s);
 s=Boolean(s);
 console.log(s);
+
+var obj={a:3};
+console.log(typeof obj);
+
+var arr=[1,2,3];
+console.log(typeof arr);
